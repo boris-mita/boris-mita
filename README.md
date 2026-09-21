@@ -13,7 +13,7 @@
 - 🔭 **Current Focus:** Building scalable web and mobile applications as a Fullstack Engineer.
 - 🌱 **Learning & Growing:** Exploring advanced cloud architectures and modern AI integrations.
 - 💡 **Passion:** Transforming complex technical challenges into clean, efficient, and user-centered code.
-- 💬 **Ask Me About:** Frontend (React, Next.js, Mobile) & Backend engineering, REST APIs, and database design.
+- 💬 **Ask Me About:** Frontend (React, Next.js, Mobile) & DevOps (Argo, Kubernetes, gitlab runner, CI/CD ) & Backend engineering, REST APIs, and database design.
 - ⚡ **Fun Fact:** When I'm not coding, I'm usually listen to music, refining dev workflows or learn new technologies.
 
 ---
