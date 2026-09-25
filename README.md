@@ -19,13 +19,15 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/boris-leonel-8a3296175" target="blank">
+  <a href="https://linkedin.com/in/boris-leonel-8a3296175" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:borisleonel12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://boris-leonel.netlify.app/" target="blank">
+  &nbsp;&nbsp;
+  <a href="https://boris-leonel.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-50A49C?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
